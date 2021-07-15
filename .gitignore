@@ -1,0 +1,5 @@
+*.sh
+.vscode
+.git
+*.fig
+*.bat
